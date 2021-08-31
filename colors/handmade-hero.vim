@@ -118,6 +118,8 @@ hi! link Exception Statement
 hi! link Operator Normal
 " Any other keyword
 hi! link Keyword Statement
+" in, and, or not
+hi! link Operator Statement
 
 " Variable name
 hi! link Identifier Normal
